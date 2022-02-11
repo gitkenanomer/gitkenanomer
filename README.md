@@ -4,4 +4,4 @@
 - 💬 Ask me about recomendations for your next mobile device.
 - 📫 How to reach me: https://www.linkedin.com/in/kenanomer/ or kenannr1@gmail.com
 - 💻 Familiar with: C, C++, Python, VSC, SQL, Microsoft Azure but constantly learning more & new topics!
-- ⚡ Fun fact: I check my blood sugar levels with an NFC reader attacthed to my arm.
+- ⚡ Fun fact: I check my blood sugar levels with an NFC reader attached to my arm.
